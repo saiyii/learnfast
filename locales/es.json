@@ -1,0 +1,150 @@
+{
+  "app": {
+    "name": "LearnFast",
+    "tagline": "Aprende rápido"
+  },
+  "nav": {
+    "home": "Inicio",
+    "profile": "Perfil",
+    "leaderboard": "Clasificación",
+    "shop": "Tienda"
+  },
+  "home": {
+    "path": "Tu camino",
+    "world": "Mundo {number}",
+    "lesson": "Lección {number}",
+    "locked": "Bloqueado",
+    "start": "Empezar",
+    "review": "Repaso",
+    "boss": "Combate de jefe",
+    "reward": "Recompensa"
+  },
+  "profile": {
+    "title": "Perfil",
+    "level": "Nivel {level}",
+    "totalXp": "XP Total",
+    "streak": "Días seguidos",
+    "activities": "Actividades",
+    "achievements": "Logros",
+    "settings": "Configuración",
+    "language": "Idioma",
+    "logout": "Cerrar sesión"
+  },
+  "leaderboard": {
+    "title": "Clasificación",
+    "weekly": "Esta semana",
+    "rank": "Rango",
+    "you": "Tú",
+    "tiers": {
+      "bronze": "Bronce",
+      "silver": "Plata",
+      "gold": "Oro",
+      "diamond": "Diamante"
+    },
+    "promotion": "¡Promoción!",
+    "demotion": "Riesgo de descenso"
+  },
+  "shop": {
+    "title": "Tienda",
+    "powerUps": "Potenciadores",
+    "cosmetics": "Cosméticos",
+    "buy": "Comprar",
+    "owned": "Propio",
+    "coins": "Monedas",
+    "gems": "Gemas",
+    "items": {
+      "xpBoost": "Impulso XP",
+      "xpBoostDesc": "2x XP durante 1 hora",
+      "heartRefill": "Rellenar corazones",
+      "heartRefillDesc": "Restaura 5 corazones",
+      "streakFreeze": "Congelar racha",
+      "streakFreezeDesc": "Protege tu racha por 1 día",
+      "retry": "Reintentar",
+      "retryDesc": "Saltar penalización"
+    }
+  },
+  "activity": {
+    "question": "Pregunta {current} de {total}",
+    "correct": "¡Correcto!",
+    "incorrect": "Incorrecto",
+    "theAnswerWas": "La respuesta era: {answer}",
+    "continue": "Continuar",
+    "finish": "Terminar",
+    "timeRemaining": "Tiempo restante"
+  },
+  "xp": {
+    "earned": "+{amount} XP",
+    "bonus": "¡Bonus!",
+    "perfect": "¡Perfecto!",
+    "levelUp": "¡Subiste de nivel!",
+    "newLevel": "¡Alcanzaste el nivel {level}!"
+  },
+  "hearts": {
+    "hearts": "Corazones",
+    "lost": "¡Perdiste un corazón!",
+    "empty": "¡Sin corazones!",
+    "refillIn": "Corazones restaurados en {time}",
+    "refill": "Rellenar corazones"
+  },
+  "streak": {
+    "streak": "Racha",
+    "days": "{count} días",
+    "atRisk": "¡Racha en peligro!",
+    "freeze": "Racha congelada",
+    "lost": "¡Racha perdida!"
+  },
+  "coins": {
+    "earned": "+{amount}",
+    "spent": "-{amount}"
+  },
+  "quests": {
+    "title": "Misiones",
+    "daily": "Diarias",
+    "weekly": "Semanales",
+    "complete": "Completar",
+    "claim": "Reclamar",
+    "claimed": "Reclamado",
+    "resetIn": "Se reinicia en {time}"
+  },
+  "achievements": {
+    "title": "Logros",
+    "earned": "Obtenido",
+    "locked": "Bloqueado",
+    "firstSteps": "Primeros pasos",
+    "streakStarter": "Iniciador de racha",
+    "perfectWeek": "Semana perfecta",
+    "scholar": "Erudito",
+    "dedicated": "Dedicado"
+  },
+  "upload": {
+    "title": "Subir contenido",
+    "subtitle": "Convierte cualquier foto en ejercicios",
+    "camera": "Cámara",
+    "gallery": "Galería",
+    "files": "Archivos",
+    "processing": "Procesando...",
+    "generating": "Generando ejercicios...",
+    "success": "¡Ejercicios listos!",
+    "error": "Algo salió mal",
+    "retry": "Intentar de nuevo"
+  },
+  "worlds": {
+    "world1": "Mundo 1",
+    "world2": "Mundo 2",
+    "world3": "Mundo 3",
+    "world4": "Mundo 4",
+    "world5": "Mundo 5"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "retry": "Reintentar",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "save": "Guardar",
+    "close": "Cerrar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "done": "Hecho"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "app": {
+    "name": "LearnFast",
+    "tagline": "Learn anything fast"
+  },
+  "nav": {
+    "home": "Home",
+    "profile": "Profile",
+    "leaderboard": "Leaderboard",
+    "shop": "Shop"
+  },
+  "home": {
+    "path": "Your Path",
+    "world": "World {number}",
+    "lesson": "Lesson {number}",
+    "locked": "Locked",
+    "start": "Start",
+    "review": "Review",
+    "boss": "Boss Fight",
+    "reward": "Reward"
+  },
+  "profile": {
+    "title": "Profile",
+    "level": "Level {level}",
+    "totalXp": "Total XP",
+    "streak": "Day Streak",
+    "activities": "Activities",
+    "achievements": "Achievements",
+    "settings": "Settings",
+    "language": "Language",
+    "logout": "Log Out"
+  },
+  "leaderboard": {
+    "title": "Leaderboard",
+    "weekly": "This Week",
+    "rank": "Rank",
+    "you": "You",
+    "tiers": {
+      "bronze": "Bronze",
+      "silver": "Silver",
+      "gold": "Gold",
+      "diamond": "Diamond"
+    },
+    "promotion": "Promotion!",
+    "demotion": "Demotion Risk"
+  },
+  "shop": {
+    "title": "Shop",
+    "powerUps": "Power-Ups",
+    "cosmetics": "Cosmetics",
+    "buy": "Buy",
+    "owned": "Owned",
+    "coins": "Coins",
+    "gems": "Gems",
+    "items": {
+      "xpBoost": "XP Boost",
+      "xpBoostDesc": "2x XP for 1 hour",
+      "heartRefill": "Heart Refill",
+      "heartRefillDesc": "Restore 5 hearts",
+      "streakFreeze": "Streak Freeze",
+      "streakFreezeDesc": "Protect your streak for 1 day",
+      "retry": "Retry",
+      "retryDesc": "Skip penalty on wrong answer"
+    }
+  },
+  "activity": {
+    "question": "Question {current} of {total}",
+    "correct": "Correct!",
+    "incorrect": "Incorrect",
+    "theAnswerWas": "The answer was: {answer}",
+    "continue": "Continue",
+    "finish": "Finish",
+    "timeRemaining": "Time remaining"
+  },
+  "xp": {
+    "earned": "+{amount} XP",
+    "bonus": "Bonus!",
+    "perfect": "Perfect!",
+    "levelUp": "Level Up!",
+    "newLevel": "You reached Level {level}!"
+  },
+  "hearts": {
+    "hearts": "Hearts",
+    "lost": "You lost a heart!",
+    "empty": "No hearts left!",
+    "refillIn": "Hearts refill in {time}",
+    "refill": "Refill Hearts"
+  },
+  "streak": {
+    "streak": "Streak",
+    "days": "{count} days",
+    "atRisk": "Streak at risk!",
+    "freeze": "Streak Freeze used",
+    "lost": "Streak lost!"
+  },
+  "coins": {
+    "earned": "+{amount}",
+    "spent": "-{amount}"
+  },
+  "quests": {
+    "title": "Quests",
+    "daily": "Daily",
+    "weekly": "Weekly",
+    "complete": "Complete",
+    "claim": "Claim",
+    "claimed": "Claimed",
+    "resetIn": "Resets in {time}"
+  },
+  "achievements": {
+    "title": "Achievements",
+    "earned": "Earned",
+    "locked": "Locked",
+    "firstSteps": "First Steps",
+    "streakStarter": "Streak Starter",
+    "perfectWeek": "Perfect Week",
+    "scholar": "Scholar",
+    "dedicated": "Dedicated"
+  },
+  "upload": {
+    "title": "Upload Content",
+    "subtitle": "Turn any photo or document into exercises",
+    "camera": "Camera",
+    "gallery": "Gallery",
+    "files": "Files",
+    "processing": "Processing...",
+    "generating": "Generating exercises...",
+    "success": "Exercises ready!",
+    "error": "Something went wrong",
+    "retry": "Try Again"
+  },
+  "worlds": {
+    "world1": "World 1",
+    "world2": "World 2",
+    "world3": "World 3",
+    "world4": "World 4",
+    "world5": "World 5"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "done": "Done"
+  }
+}

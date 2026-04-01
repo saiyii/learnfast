@@ -1,0 +1,150 @@
+{
+  "app": {
+    "name": "LearnFast",
+    "tagline": "Apprenez vite"
+  },
+  "nav": {
+    "home": "Accueil",
+    "profile": "Profil",
+    "leaderboard": "Classement",
+    "shop": "Boutique"
+  },
+  "home": {
+    "path": "Votre parcours",
+    "world": "Monde {number}",
+    "lesson": "Leçon {number}",
+    "locked": "Verrouillé",
+    "start": "Commencer",
+    "review": "Révision",
+    "boss": "Combat de boss",
+    "reward": "Récompense"
+  },
+  "profile": {
+    "title": "Profil",
+    "level": "Niveau {level}",
+    "totalXp": "XP Total",
+    "streak": "Jours consécutifs",
+    "activities": "Activités",
+    "achievements": "Succès",
+    "settings": "Paramètres",
+    "language": "Langue",
+    "logout": "Déconnexion"
+  },
+  "leaderboard": {
+    "title": "Classement",
+    "weekly": "Cette semaine",
+    "rank": "Rang",
+    "you": "Vous",
+    "tiers": {
+      "bronze": "Bronze",
+      "silver": "Argent",
+      "gold": "Or",
+      "diamond": "Diamant"
+    },
+    "promotion": "Promotion !",
+    "demotion": "Risque de relégation"
+  },
+  "shop": {
+    "title": "Boutique",
+    "powerUps": "Boosters",
+    "cosmetics": "Cosmétiques",
+    "buy": "Acheter",
+    "owned": "Possédé",
+    "coins": "Pièces",
+    "gems": "Gemmes",
+    "items": {
+      "xpBoost": "Boost XP",
+      "xpBoostDesc": "2x XP pendant 1 heure",
+      "heartRefill": "Remplissage cœurs",
+      "heartRefillDesc": "Restaurez 5 cœurs",
+      "streakFreeze": "Gel de série",
+      "streakFreezeDesc": "Protégez votre série pendant 1 jour",
+      "retry": "Recommencer",
+      "retryDesc": "Ignorer la pénalité"
+    }
+  },
+  "activity": {
+    "question": "Question {current} sur {total}",
+    "correct": "Correct !",
+    "incorrect": "Incorrect",
+    "theAnswerWas": "La réponse était : {answer}",
+    "continue": "Continuer",
+    "finish": "Terminer",
+    "timeRemaining": "Temps restant"
+  },
+  "xp": {
+    "earned": "+{amount} XP",
+    "bonus": "Bonus !",
+    "perfect": "Parfait !",
+    "levelUp": "Niveau supérieur !",
+    "newLevel": "Vous avez atteint le niveau {level} !"
+  },
+  "hearts": {
+    "hearts": "Cœurs",
+    "lost": "Vous avez perdu un cœur !",
+    "empty": "Plus de cœurs !",
+    "refillIn": "Cœurs restaurés dans {time}",
+    "refill": "Remplir les cœurs"
+  },
+  "streak": {
+    "streak": "Série",
+    "days": "{count} jours",
+    "atRisk": "Série en danger !",
+    "freeze": "Gel de série utilisé",
+    "lost": "Série perdue !"
+  },
+  "coins": {
+    "earned": "+{amount}",
+    "spent": "-{amount}"
+  },
+  "quests": {
+    "title": "Quêtes",
+    "daily": "Quotidiennes",
+    "weekly": "Hebdomadaires",
+    "complete": "Terminer",
+    "claim": "Réclamer",
+    "claimed": "Réclamé",
+    "resetIn": "Réinitialisation dans {time}"
+  },
+  "achievements": {
+    "title": "Succès",
+    "earned": "Obtenu",
+    "locked": "Verrouillé",
+    "firstSteps": "Premiers pas",
+    "streakStarter": "Début de série",
+    "perfectWeek": "Semaine parfaite",
+    "scholar": "Erudit",
+    "dedicated": "Dévoué"
+  },
+  "upload": {
+    "title": "Télécharger du contenu",
+    "subtitle": "Transformez n'importe quelle photo en exercices",
+    "camera": "Caméra",
+    "gallery": "Galerie",
+    "files": "Fichiers",
+    "processing": "Traitement...",
+    "generating": "Génération des exercices...",
+    "success": "Exercices prêts !",
+    "error": "Une erreur est survenue",
+    "retry": "Réessayer"
+  },
+  "worlds": {
+    "world1": "Monde 1",
+    "world2": "Monde 2",
+    "world3": "Monde 3",
+    "world4": "Monde 4",
+    "world5": "Monde 5"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "retry": "Réessayer",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "save": "Enregistrer",
+    "close": "Fermer",
+    "back": "Retour",
+    "next": "Suivant",
+    "done": "Terminé"
+  }
+}
